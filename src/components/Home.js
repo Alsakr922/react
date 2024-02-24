@@ -3,7 +3,6 @@ import Button from './Button'
 import {  ArrowForwardIos } from '@mui/icons-material'
 import { Link } from 'react-router-dom'
 import { TypeAnimation } from 'react-type-animation'
-import Hero from "../../public/Hero.png"
 
 const Home = () => {
 
@@ -52,7 +51,7 @@ const Home = () => {
       <div className='up_down flexCenter lg:w-[500] lg:h-[500] md:w-[300] md:h-[300] sm:w-[200] sm:h-[200]'>
         <img
           className='lg:w-[500] lg:h-[500] md:w-[300] md:h-[300] sm:w-[200] sm:h-[200]'
-          src={Hero}
+          src={""}
           alt="Logo"
           width={200}
           height={200}

@@ -1,7 +1,5 @@
 import React from 'react'
-import Pro1  from "../public/project-img1.png"
-import Pro2  from "../public/project-img2.png"
-import Pro3  from "../public/project-img3.png"
+
 
 const SectionOne = () => {
   return (
@@ -10,7 +8,7 @@ const SectionOne = () => {
         <div className='cursor-pointer hover:scale-105 transition-all'>
           <image
           className='rounded-2xl'
-            src={Pro1}
+            src={""}
             alt='Photo'
             width={600}
             height={400}
@@ -19,7 +17,7 @@ const SectionOne = () => {
         <div className='cursor-pointer hover:scale-105 transition-all'>
           <image
           className='rounded-2xl'
-            src={Pro2}
+            src={""}
             alt='Photo'
             width={600}
           height={400}/>
@@ -27,7 +25,7 @@ const SectionOne = () => {
         <div className='cursor-pointer hover:scale-105 transition-all'>
           <image
           className='rounded-2xl'
-            src={Pro3}
+            src={""}
             alt='Photo'
             width={600}
             height={400}
@@ -36,7 +34,7 @@ const SectionOne = () => {
         <div className='cursor-pointer hover:scale-105 transition-all'>
           <image
           className='rounded-2xl'
-            src={Pro1}
+            src={""}
             alt='Photo'
             width={600}
           height={400}/>
@@ -44,7 +42,7 @@ const SectionOne = () => {
         <div className='cursor-pointer hover:scale-105 transition-all'>
           <image
           className='rounded-2xl'
-            src={Pro2}
+            src={""}
             alt='Photo'
             width={600}
           height={400}/>
@@ -52,7 +50,7 @@ const SectionOne = () => {
         <div className='cursor-pointer hover:scale-105 transition-all'>
           <image
           className='rounded-2xl'
-            src={Pro3}
+            src={""}
             alt='Photo'
             width={600}
           height={400}/>

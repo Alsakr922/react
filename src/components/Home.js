@@ -3,7 +3,7 @@ import Button from './Button'
 import {  ArrowForwardIos } from '@mui/icons-material'
 import { Link } from 'react-router-dom'
 import { TypeAnimation } from 'react-type-animation'
-import Hero from "../public/Hero.png"
+import Hero from "../../public/Hero.png"
 
 const Home = () => {
 
